@@ -5,22 +5,22 @@ function App() {
     {
       title: "car insurance",
       amout: 1000,
-      date: new Date(2022, 20, 22),
+      date: new Date(2022, 9, 1),
     },
     {
       title: "school bag",
       amout: 120,
-      date: new Date(2022, 20, 22),
+      date: new Date(2022, 5, 23),
     },
     {
       title: "door mat",
       amout: 160,
-      date: new Date(2022, 20, 22),
+      date: new Date(2022, 7, 12),
     },
     {
       title: "Pencils",
       amout: 100,
-      date: new Date(2022, 20, 22),
+      date: new Date(2022, 9, 10),
     },
   ];
   return (
